@@ -1,3 +1,4 @@
 # Ignore recipes.json
 
 *.json
+node_modules
