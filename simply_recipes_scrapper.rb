@@ -2,7 +2,7 @@ require 'open-uri'
 require 'Nokogiri'
 require 'json'
 
-url = 'https://www.simplyrecipes.com/recipes/ingredient/chicken/page/2/'
+url = 'https://www.simplyrecipes.com/recipes/ingredient/chicken/page/3/'
 
 document = open(url)
 content = document.read
